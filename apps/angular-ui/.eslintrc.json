@@ -13,7 +13,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "nxPresetAppsTest",
+            "prefix": "jsFrameworksPlayground",
             "style": "camelCase"
           }
         ],
